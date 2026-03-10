@@ -72,7 +72,7 @@ pip install pandas matplotlib seaborn scikit-learn jupyter
 Pasos:
 ```bash
 # 1. Clona este repositorio
-git clone https://github.com/tu-usuario/telecomx-parte2](https://github.com/JuniorC137x/Telecom-X-Parte-2-Prediciendo-la-Evasion-de-Clientes.git
+git clone https://github.com/JuniorC137x/Telecom-X-Parte-2-Prediciendo-la-Evasion-de-Clientes.git
 
 # 2. Entra a la carpeta
 
